@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1363560434 source:c:\documents and settings\abner\desktop\n-puzzle\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1363735628 c:\documents and settings\abner\desktop\n-puzzle\resource.h
+
+1363741476 source:c:\documents and settings\abner\desktop\n-puzzle\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1363738816 source:c:\documents and settings\abner\desktop\n-puzzle\main.c
+	<windows.h >
+	<Windowsx.h>
+	<commctrl.h>
+	<stdio.h   >
+	"resource.h"
+
+1411270628 source:g:\meus projetos\n-puzzle\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1411270628 g:\meus projetos\n-puzzle\resource.h
+
+1411269318 source:g:\meus projetos\n-puzzle\main.c
+	<windows.h >
+	<Windowsx.h>
+	<commctrl.h>
+	<stdio.h   >
+	<time.h    >
+	"resource.h"
+
